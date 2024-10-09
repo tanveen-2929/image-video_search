@@ -1,1 +1,1 @@
-search Image/videos using jquery
+search Images/videos using jquery
