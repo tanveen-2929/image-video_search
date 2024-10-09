@@ -1,1 +1,1 @@
-search Images/videos using jquery
+Search images and videos using Pixabay Api
